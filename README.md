@@ -1,4 +1,4 @@
-# Hippo Club 
+# SocialHub 
 Spring Boot with JPA Authentication, Spring Data JPA with MySQL, and Spring MVC are all used in the development of SocialHub.
 The frontend is made with React, and the source code for it is available here: https://github.com/kha-ibr/SocialHub-frontend
 
