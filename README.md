@@ -1,6 +1,6 @@
 # Hippo Club 
-Spring Boot with JPA Authentication, Spring Data JPA with MySQL, and Spring MVC are all used in the development of Hippo Club.
-The frontend is made with React, and the source code for it is available here. **https://github.com/kha-ibr/SocialHub-frontend**
+Spring Boot with JPA Authentication, Spring Data JPA with MySQL, and Spring MVC are all used in the development of SocialHub.
+The frontend is made with React, and the source code for it is available here: https://github.com/kha-ibr/SocialHub-frontend
 
 ### Application Preview
 
@@ -28,5 +28,3 @@ Create a file called `application.properties` inside "src/main/resources/applica
    spring.datasource.driver-class-name=com.mysql.jdbc.Driver
    spring.jpa.show-sql=true
    ```   
-### Frontend code
-The Frontend port was build using React and here is the code for it: https://github.com/hippoClub/hippo-club-frontend
